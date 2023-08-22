@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-user-management-system/static/css/main.5cd64d03.css",
+    "main.js": "/React-user-management-system/static/js/main.affed526.js",
+    "index.html": "/React-user-management-system/index.html",
+    "main.5cd64d03.css.map": "/React-user-management-system/static/css/main.5cd64d03.css.map",
+    "main.affed526.js.map": "/React-user-management-system/static/js/main.affed526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd64d03.css",
+    "static/js/main.affed526.js"
+  ]
+}
